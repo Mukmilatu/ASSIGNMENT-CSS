@@ -9,7 +9,7 @@ body {
     background-color: lightgrey;
 }
 
-h1 {
+.container h1 {
     font-size: 32px; 
     text-transform: uppercase;
 
@@ -20,7 +20,7 @@ p {
     line-height: 1.5;
 }
 
-ul li { 
+ul > li { 
     font-size: 18px; 
     text-transform: uppercase;
 
